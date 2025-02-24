@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🌱 About Me  
+
+🎮 **Hobby**: Modding ZZZ, running **LLMs** locally, and generating **AI images**  
+🌍 **Languages**: **Korean**, **English**  
+📬 **Contact me on Discord**: `summersbyy`  
+💖 **Support me on Ko-fi**: [Ko-fi Link](https://ko-fi.com/summersby)
 
 <!--
 **somb1/somb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
