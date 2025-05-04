@@ -1,6 +1,5 @@
 ## 🌱 About Me  
 
-🎮 **Hobby**: Modding **ZZZ**, running **LLMs** locally, generating **AI images**, and writing **Dockerfiles**  
 🌍 **Languages**: **Korean**, **English**  
 📬 **Contact me on Discord**: `summersbyy`  
 💖 **Support me on Ko-fi**: [Ko-fi Link](https://ko-fi.com/summersby)
